@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "InputModule")(type "KiCad")(uri "${KIPRJMOD}/InputModule.pretty")(options "")(descr ""))
+  (lib (name "Hirose_FPC")(type "KiCad")(uri "${KIPRJMOD}/Hirose_FPC.pretty")(options "")(descr "Hirose FPC connectors used for EPD connections"))
+)

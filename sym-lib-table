@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Hirose_FH34SRJ_6S")(type "KiCad")(uri "${KIPRJMOD}/FH34SRJ-6S-0.5SH_50_.kicad_sym")(options "")(descr ""))
+  (lib (name "Hirose_FH34SRJ_24S")(type "KiCad")(uri "${KIPRJMOD}/FH34SRJ-24S-0.5SH_50_.kicad_sym")(options "")(descr ""))
+)
