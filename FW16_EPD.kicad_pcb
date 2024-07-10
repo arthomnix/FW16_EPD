@@ -15748,8 +15748,8 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "FW16_EPD r1.0 2024-06-21 (c) arthomnix 2024"
-		(at 94.25 109.59 -90)
+	(gr_text "FW16_EPD r1.0 2024-07-10 (c) arthomnix 2024"
+		(at 94.25 109.59 270)
 		(layer "B.SilkS")
 		(uuid "235008eb-0996-43ca-8b5b-67ce209a10e2")
 		(effects
@@ -16006,7 +16006,7 @@
 			(justify bottom)
 		)
 	)
-	(gr_text "(c) arthomnix 2024\n2024-07-09 r1.0"
+	(gr_text "(c) arthomnix 2024\n2024-07-10 r1.0"
 		(at 111 39.4 0)
 		(layer "F.SilkS")
 		(uuid "e13ca8de-cc50-4664-8235-a98da72ed2fc")
