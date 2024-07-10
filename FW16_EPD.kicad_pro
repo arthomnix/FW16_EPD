@@ -509,6 +509,50 @@
       {
         "netclass": "Power",
         "pattern": "+1V1"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/EPD_VDHR"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/EPD_VDDD"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/EPD_VDH"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/EPD_VDL"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/EPD_VCOM"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/EPD_VGL"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/EPD_VGH"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/EPD_GDR"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/EPD_RESE"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(D1-A)"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(D2-A)"
       }
     ]
   },
