@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.8,
-          "width": 0.3
+          "height": 0.62,
+          "width": 0.56
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -58,7 +58,10 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "courtyards_overlap|149540001|154182261|174d202b-493e-4375-a9b5-d8ef6cfef8a3|2cb6282a-d4d0-44fe-b291-5aea2fa99b36",
+        "courtyards_overlap|158639999|155764033|174d202b-493e-4375-a9b5-d8ef6cfef8a3|ec4df7d8-ce03-4345-ade7-8d6a1c90e9bb"
+      ],
       "meta": {
         "version": 2
       },
@@ -120,7 +123,7 @@
         "min_connection": 0.127,
         "min_copper_edge_clearance": 0.3,
         "min_hole_clearance": 0.254,
-        "min_hole_to_hole": 0.5,
+        "min_hole_to_hole": 0.2,
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
         "min_resolved_spokes": 2,
@@ -429,7 +432,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "ignore",
