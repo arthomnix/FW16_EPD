@@ -688,4 +688,15 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "836b063e-64c3-4a69-b450-2fbeb14b5682")
 	)
+	(model "${KIPRJMOD}/Hirose_FPC.3dshapes/FH34SRJ-24S-0.5SH.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
