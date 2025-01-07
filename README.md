@@ -2,6 +2,8 @@
 
 Touchscreen E-paper medium size input module for the Framework Laptop 16 (WIP)
 
+<img src="https://github.com/user-attachments/assets/d0bf0b98-61cb-4733-a304-5992d6e4588a" width="30%" alt="Picture of prototype touchscreen e-paper input module installed in the right hand side of a Framework Laptop 16, showing the Framework logo and handwritten text saying 'Hi!'">
+
 ## Legal
 
 Copyright © 2024 arthomnix
