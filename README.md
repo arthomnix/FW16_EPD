@@ -1,8 +1,13 @@
 # Framework Laptop 16 Touchscreen E-Paper Input Module
 
-Touchscreen E-paper medium size input module for the Framework Laptop 16 (WIP)
+Touchscreen E-paper medium size input module for the Framework Laptop 16
+
+_As featured on the [Framework 16 product page](https://frame.work/laptop16) and [Framework 2nd Gen Event](https://www.youtube.com/watch?v=-8k7jTF_JCg)_
 
 <img src="https://github.com/user-attachments/assets/d0bf0b98-61cb-4733-a304-5992d6e4588a" width="30%" alt="Picture of prototype touchscreen e-paper input module installed in the right hand side of a Framework Laptop 16, showing the Framework logo and handwritten text saying 'Hi!'">
+
+
+**Firmware and software:** https://github.com/arthomnix/epd_firmware (also mirrored on [Tangled](https://tangled.sh/@arthomnix.dev/eepy))
 
 ## Legal
 
